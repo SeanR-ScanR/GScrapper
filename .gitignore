@@ -1,0 +1,6 @@
+/node_modules
+/series
+*.rar
+*.exe
+cookie.json
+config.json
